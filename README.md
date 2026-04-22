@@ -3,6 +3,12 @@
 ## Disclaimer
 This project is created and shared for educational purposes only. I do not condone or endorse the use of this project for any illegal activities or unethical behavior. The use of this project is solely at the user's discretion. I am not held responsible for any misuse of the information or code provided in this repository.
 
+If my injector doesnot work then download the xignsilencer and run it and also download injector of your choice or extreme injector : https://www.unknowncheats.me/forum/downloads.php?do=file&id=21570
+
+![injector Preview](4.jpg)
+
+
+
 ## Usage
 ### How to Run
 Make sure to set Directx to 11 in the Game Settings First.
