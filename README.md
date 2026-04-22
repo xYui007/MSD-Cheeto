@@ -5,6 +5,7 @@ This project is created and shared for educational purposes only. I do not condo
 
 ## Usage
 ### How to Run
+Make sure to set Directx to 11 in the Game Settings First.
 1. Run the Ghost Injector as Admin First.
 2. Now Run the Game using Netmarble Launcher.
 3. Press **INSERT** to show the menu.
