@@ -30,6 +30,8 @@ Make sure to set Directx to 11 in the Game Settings First.
 *   **TP To Treasure**: Warps to the closest chest.
 *   **TP To Gatherable**: Warps to the closest plant or ore.
 *   **Dialogue Skip**: Auto-advance and skip all game conversations instantly.
+*   **Untargetable**: Stop Enemies targeting you (Combat tab).
+*   **Long Range Interaction**: Loot Chests,Plants and talk to NPCs from distance (World tab).
 
 ## Screenshots
 ![Menu Preview](1.jpg)
